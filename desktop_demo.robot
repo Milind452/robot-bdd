@@ -1,13 +1,12 @@
 *** Settings ***
-Library  SeleniumLibrary
+Library  AutoitLibrary
 
 *** Variables ***
 
 
 *** Test Cases ***
 Login
-	#create webdriver  chrome  executable_path="/home/milind/Downloads/chromedriver_linux64/chromedriver"
-	open browser  https://www.google.com  chrome
+	Run  calc.exe
 
 *** Keywords ***
 
