@@ -1,5 +1,5 @@
 *** Settings ***
-Library  AutoitLibrary
+Library  AutoItLibrary
 
 *** Variables ***
 
