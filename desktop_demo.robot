@@ -5,7 +5,7 @@ Library  AutoItLibrary
 
 
 *** Test Cases ***
-Login
+Launch calculator
 	Run  calc.exe
 
 *** Keywords ***
